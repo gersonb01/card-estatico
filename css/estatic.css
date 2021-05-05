@@ -1,0 +1,68 @@
+.bg {
+  background-color: black;
+  width: 1440px;
+  height: 600px;
+  padding-top: 50px;
+}
+.template {
+  background-color: #1c1938;
+  border-radius: 20px;
+  width: 1277px;
+  height: 486px;
+  margin: 0 80px 50px 80px;
+}
+.template h1 {
+  font-size: 50px;
+  font-weight: bold;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 67px;
+  width: 505px;
+  height: 134px;
+  margin-left: 42px;
+  color: #fff;
+}
+.template h1 span {
+  color: #a05cc9;
+}
+.text_escuro {
+  font-size: 18px;
+  letter-spacing: 0.1em;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 30px;
+  width: 505px;
+  height: 104px;
+  color: #868597;
+  margin-left: 42px;
+}
+.list_grande li {
+  list-style: none;
+  font-size: 38px;
+  font-weight: bold;
+  letter-spacing: 0.1em;
+  color: #fff;
+  display: inline-block;
+  padding-right: 116px;
+  padding-top: 50px;
+}
+.list_pequena li {
+  list-style: none;
+  font-size: 20px;
+  font-weight: normal;
+  letter-spacing: 0.1em;
+  color: #868597;
+  display: inline-block;
+  padding-right: 86px;
+  padding-top: 5px;
+  text-transform: uppercase;
+}
+.list_one {
+  margin-left: -10px;
+}
+.list_two {
+  margin-left: -25px;
+}
+.fundo_bg {
+  margin-left: 690px;
+  border-radius: 0 20px 20px 0;
+  margin-top: -449px;
+}
